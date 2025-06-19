@@ -1,0 +1,14 @@
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\bin\Debug\net8.0\StoreApi.exe
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\bin\Debug\net8.0\StoreApi.deps.json
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\bin\Debug\net8.0\StoreApi.runtimeconfig.json
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\bin\Debug\net8.0\StoreApi.dll
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\bin\Debug\net8.0\StoreApi.pdb
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\obj\Debug\net8.0\StoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\obj\Debug\net8.0\StoreApi.AssemblyInfoInputs.cache
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\obj\Debug\net8.0\StoreApi.AssemblyInfo.cs
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\obj\Debug\net8.0\StoreApi.csproj.CoreCompileInputs.cache
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\obj\Debug\net8.0\StoreApi.dll
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\obj\Debug\net8.0\refint\StoreApi.dll
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\obj\Debug\net8.0\StoreApi.pdb
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\obj\Debug\net8.0\StoreApi.genruntimeconfig.cache
+C:\Users\heyhe\OneDrive\Desktop\01. Projetos\qontrato\StoreApi\StoreApi\obj\Debug\net8.0\ref\StoreApi.dll
